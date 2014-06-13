@@ -1,0 +1,10 @@
+---
+slug: :event_watch
+depends:
+  mikutter: 3.0.0
+  plugin:
+  - settings
+version: '1.0'
+author: toshi_a
+name: Event Watch
+description: "興味のある単語を追いかけるプラグイン"
